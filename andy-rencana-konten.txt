@@ -4,6 +4,7 @@ RENCANA KONTEN ANDY
 - css
 - javascript
   *react.js
+  *angular.js
   
  
  .html ke .txt
