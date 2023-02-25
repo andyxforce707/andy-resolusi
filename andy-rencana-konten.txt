@@ -5,6 +5,7 @@ RENCANA KONTEN ANDY
 - javascript
   *react.js
   *angular.js
+  *query.js
   
  
  .html ke .txt
